@@ -80,8 +80,8 @@ How literature has addresses the problem:
    b. Outcome feedback:
       availability (offered by a provider) of the information needed to control the exchange outcomes
 
-   H1: PIQ is higher when control transparency is high
-   H2: PIQ is higher when outcome feedback is high
+   - H1: PIQ is higher when control transparency is high
+   - H2: PIQ is higher when outcome feedback is high
 
  5. Direct effects of PIQ
  ------------------------
