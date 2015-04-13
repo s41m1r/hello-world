@@ -44,7 +44,7 @@ How literature has addresses the problem:
  1. State of the Art
  -------------------
 
-   a. Literature attention on the benefits of IOS
+   a). Literature attention on the benefits of IOS
    b. Economics researchers have studied *factors* that influence IOS adoption. E.g. incentives induce IOS adoption
    c. Sociological researchers have focused on networks and social relations that influence IOS adoption. Suggestion: similarity, trust, reputation, past alliances, third-party ties, and interdependence lead to IOS adoption.
    d. Interdisciplinary studies integrate existing theories in a model of IOR fomation. Results: theorie bases address uncertainty via joint actions, information exchange, and coordination.
