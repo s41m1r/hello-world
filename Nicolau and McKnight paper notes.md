@@ -75,10 +75,11 @@ How literature has addresses the problem:
 
  4. Antecedents of PIQ
  ---------------------
+
    a. Control transparency:
-      availability of adequate information to verify or assess the data exchange.
+   availability of adequate information to verify or assess the data exchange.
    b. Outcome feedback:
-      availability (offered by a provider) of the information needed to control the exchange outcomes
+   availability (offered by a provider) of the information needed to control the exchange outcomes
 
    - H1: PIQ is higher when control transparency is high
    - H2: PIQ is higher when outcome feedback is high
